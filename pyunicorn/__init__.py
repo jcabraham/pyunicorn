@@ -40,7 +40,8 @@ To Do
 import os
 import sys
 
-from setup import __version__
+# this whole suite is buggy as hell, starting right here. Commenting out.
+#from setup import __version__
 
 from .utils import mpi
 from .core import *
